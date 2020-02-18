@@ -1,8 +1,8 @@
-# selenium-webdriver (ES6-modules, esm, MochaJS and Assert)
+# selenium-webdriver: (ES6-modules, ESM, MochaJS and Assert)
 
 [![GitHub Actions status | e2e-boilerplates/selenium-webdriver-es6-modules-esm-mocha-assert](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-esm-mocha-assert/workflows/selenium-webdriver-es6-modules-esm-mocha-assert/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-esm-mocha-assert/actions?workflow=selenium-webdriver-es6-modules-esm-mocha-assert)
 
-selenium-webdriver end-to-end test automation boilerplate project. Using ES6 modules, ESM, MochaJS and Assert.
+selenium-webdriver end-to-end test automation boilerplate, using ES6 modules, ESM, MochaJS and Assert.
 
 ## Getting Started
 

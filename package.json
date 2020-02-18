@@ -1,20 +1,21 @@
 {
-  "name": "selenium-webdriver-es-6modules-esm-mocha-assert",
+  "name": "selenium-webdriver-es6-modules-esm-mocha-assert",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate project. Using ES6 modules, ESM, MochaJS and Assert.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6 modules, ESM, MochaJS and Assert.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx mocha -r esm spec/sandbox.spec.js"
+    "test": "npx mocha -r esm spec/*.spec.js"
   },
   "keywords": [
     "selenium-webdriver",
-    "ES6 modules",
+    "ES6",
+    "e2e",
     "esm",
+    "e2e test",
     "mocha",
     "assert",
     "boilerplates",
-    "example",
-    "e2e"
+    "example"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
