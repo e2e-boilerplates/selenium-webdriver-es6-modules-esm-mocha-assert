@@ -1,4 +1,4 @@
-name: selenium-webdriver-es6-modules-esm-mocha-assert
+name: selenium-webdriver-es-modules-esm-mocha-assert
 
 on:
   push:
