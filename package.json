@@ -23,7 +23,7 @@
   },
   "keywords": [
     "assert",
-    "es modules",
+    "es",
     "esm",
     "mocha",
     "selenium",
@@ -31,10 +31,10 @@
     "webdriver"
   ],
   "license": "MIT",
-  "name": "selenium-webdriver-es6-modules-esm-mocha-assert",
+  "name": "selenium-webdriver-es-modules-esm-mocha-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-esm-mocha-assert.git"
+    "url": "git+https://github.com/e2e-boilerplates/selenium-webdriver-es-modules-esm-mocha-assert.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
