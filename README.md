@@ -6,7 +6,7 @@ Selenium-WebDriver end-to-end test automation boilerplate, using ES Modules, esm
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert.git
-    	cd selenium-webdriver-es-modules-esm-mocha-assert
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert.git
+    	2. cd selenium-webdriver-es-modules-esm-mocha-assert
+    	3. npm install
+    	4. npm run test
