@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert/workflows/selenium-webdriver-es-modules-esm-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert/actions?workflow=selenium-webdriver-es-modules-esm-mocha-assert)
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert/workflows/selenium-webdriver-es-modules-esm-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert/actions?workflow=selenium-webdriver-es-modules-esm-mocha-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Selenium-WebDriver Boilerplate
 
